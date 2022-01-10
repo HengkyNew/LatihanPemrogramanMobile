@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/09MT5/04MTP Pemrograman Mobile/Latihan8020190053/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Kuliah/09MT5/04MTP Pemrograman Mobile/Latihan8020190053/app/src/main/res/layout/activity_tambah_data.xml" value="0.18" />
+        <entry key="..\:/Kuliah/09MT5/04MTP Pemrograman Mobile/Latihan8020190053/app/src/main/res/layout/activity_ubah_data.xml" value="0.1" />
+        <entry key="..\:/Kuliah/09MT5/04MTP Pemrograman Mobile/Latihan8020190053/app/src/main/res/layout/view_barang.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
