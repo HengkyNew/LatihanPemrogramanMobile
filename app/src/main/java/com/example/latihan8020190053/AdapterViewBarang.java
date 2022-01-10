@@ -1,10 +1,8 @@
 package com.example.latihan8020190053;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
-import android.database.sqlite.SQLiteOpenHelper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -38,7 +36,7 @@ public class AdapterViewBarang extends RecyclerView.Adapter<AdapterViewBarang.Vi
     @Override
     public ViewHolderSaya onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         LayoutInflater inflaterKita = LayoutInflater.from(context);
-        View view = inflaterKita.inflate(R.layout.view_barang, parent, false);
+        View view = inflaterKita.inflate(R.layout.view_barang_hengky_wijaya_8020190053, parent, false);
         return new ViewHolderSaya(view);
     }
 
